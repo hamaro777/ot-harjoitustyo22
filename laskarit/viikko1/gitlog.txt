@@ -1,0 +1,103 @@
+commit a4b6cc44791cb89cf9243b94d851e53f9e5bb6c9
+Author: Roosa Hämäläinen <roosa.a.hamalainen@helsinki.fi>
+Date:   Thu Nov 3 16:17:35 2022 +0200
+
+    harjoittelua
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit f46865c25a0d990c8b39d0c8478a9d6986a0e6f6
+Author: Roosa Hämäläinen <roosa.a.hamalainen@helsinki.fi>
+Date:   Thu Nov 3 16:13:36 2022 +0200
+
+    tiedostoja luonti
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 31fa2763d17df933a1e2fb00af5c9f1dda8d3e79
+Author: Roosa Hämäläinen <roosa.a.hamalainen@helsinki.fi>
+Date:   Thu Nov 3 16:07:47 2022 +0200
+
+    muokkauksia
+
+ eka.txt    | 2 +-
+ kolmas.txt | 4 ++++
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+
+commit a4b81a69cd7862e001a647aab1b0575a239b8c5f
+Author: Roosa Hämäläinen <roosa.a.hamalainen@helsinki.fi>
+Date:   Thu Nov 3 16:06:07 2022 +0200
+
+    tiedosto nimenvaihto
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit da08eec2e50876637ec323935b613ace58738197
+Author: Roosa Hämäläinen <roosa.a.hamalainen@helsinki.fi>
+Date:   Thu Nov 3 16:04:41 2022 +0200
+
+    toinen poisto
+
+ toinen.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 72609e79697d58260dba65c6f401b3cd47af0c49
+Author: Roosa Hämäläinen <roosa.a.hamalainen@helsinki.fi>
+Date:   Thu Nov 3 16:02:39 2022 +0200
+
+    tiedoston toinen muokkaus
+
+ tiedosto.txt | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+commit 978af3f50bbb87233dd82d5124c91199a944035c
+Author: Roosa Hämäläinen <roosa.a.hamalainen@helsinki.fi>
+Date:   Thu Nov 3 16:01:39 2022 +0200
+
+    tiedosto muokkaus
+
+ tiedosto.txt | 18 ++++++++++++++++++
+ 1 file changed, 18 insertions(+)
+
+commit 85ae367bd7d4eaa964066a4cff0628c361486e1c
+Author: Roosa Hämäläinen <roosa.a.hamalainen@helsinki.fi>
+Date:   Thu Nov 3 15:57:06 2022 +0200
+
+    stuff-kansion lisäys
+
+ stuff/hopo.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit dc4c0b54a27c3482fafc7594fef4a640beee2ce1
+Author: Roosa Hämäläinen <roosa.a.hamalainen@helsinki.fi>
+Date:   Thu Nov 3 15:56:24 2022 +0200
+
+    kolmas lisäys
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 553f6d25d458c77e029ec736e3e7d773aa323589
+Author: Roosa Hämäläinen <roosa.a.hamalainen@helsinki.fi>
+Date:   Thu Nov 3 15:54:30 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit e3f0d4fc4c4ab94fb8c9fe91cab31e1da2175c80
+Author: Roosa Hämäläinen <roosa.a.hamalainen@helsinki.fi>
+Date:   Thu Nov 3 15:52:18 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
