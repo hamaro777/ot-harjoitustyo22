@@ -9,6 +9,8 @@ Tässä on [linkki](https://github.com/hamaro777/ot-harjoitustyo22/blob/main/las
 
 Tässä on [linkki](https://github.com/hamaro777/ot-harjoitustyo22/blob/main/laskarit/viikko1/komentorivi.txt) tiedostoon komentorivi.txt
 
-Tässä on [linkki](https://github.com/hamaro777/ot-harjoitustyo22/blob/main/dokumentaatio/vaatimusmaarittely.md) tiedostoon maarittelydokumentti.md
+Tässä on [linkki](https://github.com/hamaro777/ot-harjoitustyo22/blob/main/dokumentaatio/vaatimusmaarittely.md) tiedostoon vaatimusmaarittelydokumentti.md
+
+Tässä on [linkki](https://github.com/hamaro777/ot-harjoitustyo22/blob/main/dokumentaatio/tuntikirjanpito.md) tuntikirjanpitoon
 
 uwu read.md
